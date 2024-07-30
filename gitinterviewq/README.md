@@ -30,3 +30,10 @@ Use code with caution.
 
 CI/CD pipeline triggers deployment to production:
 Deploys the application to the production environment.
+
+
+Beyond the Basics
+Git submodules: Managing external Git repositories within a project.
+Git hooks: Customizing Git behavior with scripts.
+Git workflows: Implementing branching strategies like Gitflow or GitHub Flow.
+By mastering these Git commands and understanding their role in the DevOps workflow, you can significantly improve your efficiency and collaboration within your team.
